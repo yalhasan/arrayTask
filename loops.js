@@ -31,3 +31,5 @@ for (let i = 0; i < number.length; i++){
     sum = sum + number[i];
 }
 console.log(sum);
+
+//testing comment
