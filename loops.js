@@ -32,4 +32,3 @@ for (let i = 0; i < number.length; i++){
 }
 console.log(sum);
 
-//testing comment

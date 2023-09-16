@@ -38,4 +38,3 @@ console.log(temp[4]);
 //Q10
 console.log(myArray.includes("banana"));
 
-//testing comment
